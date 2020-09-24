@@ -1,0 +1,11 @@
+[package]
+name = "axis-ticks"
+version = "0.1.0"
+authors = ["Tim Fish <tim@timfish.uk>"]
+repository = "https://github.com/timfish/axis-ticks"
+description = "Generates an array of nicely rounded values between two numbers for which are ideal for positioning axis labels and grid-lines"
+edition = "2018"
+readme = "README.md"
+
+[dependencies]
+num-traits = "^0.2.12"
