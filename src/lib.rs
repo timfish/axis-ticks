@@ -1,7 +1,7 @@
 /*!
 A port of [`d3-ticks`](https://observablehq.com/@d3/d3-ticks), part of the JavaScript D3 plotting library.
 
-Generates an array of nicely rounded values between two numbers for which are ideal for positioning axis labels and grid-lines.
+Generates an array of nicely rounded values between two numbers which are ideal for positioning axis labels and grid-lines.
 ```
 let ticks = axis_ticks::ticks(-0.125, 0.25, 10);
 
